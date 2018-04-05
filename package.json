@@ -1,11 +1,10 @@
 {
-    "name" : "L2KE",
-    "version" : "0.0.1",
-    "dependencies" : {
-        "express" : "4.12.3"
-    },
-
-    "scripts" : {
-        "start" : "node --harmony ./private/bootstrap.js"
-    }
+  "name": "L2KE",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.16.0"
+  },
+  "scripts": {
+    "start": "node --harmony ./private/bootstrap.js"
+  }
 }
