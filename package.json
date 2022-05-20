@@ -2,7 +2,7 @@
     "name" : "L2KE",
     "version" : "0.0.1",
     "dependencies" : {
-        "express" : "4.12.3"
+        "express" : "4.15.3"
     },
 
     "scripts" : {
